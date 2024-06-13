@@ -1,0 +1,41 @@
+body {
+	font-family: Outfit;
+	font-size: 2.8vmin;
+	background-color: #D5E1EF;
+}
+
+main {
+	width: 55.04vmin;
+	height: 86vmin;
+	position:absolute;
+	top: calc(50% - 43vmin);
+	left: calc(50% - 27.52vmin);
+
+	background-color: #FFFFFF;
+	border-radius: 2.58vh;
+}
+
+main > * {
+	width: calc(100% - 6.02vmin);
+	margin: 3.01vmin;
+	margin-bottom: 0px;
+}
+
+#image {
+	height: 49.02vmin;
+	aspect-ratio: 1 / 1;
+	border-radius: 0.9vmin;
+}
+
+main > p {
+	margin-top: 4.3vmin;
+}
+
+#header_comments {
+	font-size: 4vmin;
+	font-weight: bold;
+}
+
+#comments {
+	color: #999999;
+}
