@@ -6,9 +6,9 @@ body {
 
 main {
 	width: 55.04vmin;
-	height: 86vmin;
+	height: 96vmin;
 	position:absolute;
-	top: calc(50% - 43vmin);
+	top: calc(50% - 48vmin);
 	left: calc(50% - 27.52vmin);
 
 	background-color: #FFFFFF;
